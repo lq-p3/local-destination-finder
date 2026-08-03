@@ -1,0 +1,108 @@
+[
+  {
+    "id": "user_sarah",
+    "name": "Sarah Miller",
+    "email": "sarah.travels@example.com",
+    "passwordHash": "password123",
+    "role": "user",
+    "points": 450,
+    "badges": [
+      "Local Explorer",
+      "Aseer Explorer"
+    ],
+    "notificationSettings": {
+      "bookings": true,
+      "offers": true,
+      "messages": true,
+      "system": true,
+      "weather": true
+    }
+  },
+  {
+    "id": "user_admin",
+    "name": "LDF Administrator",
+    "email": "admin@ldf.sa",
+    "passwordHash": "admin123",
+    "role": "admin",
+    "points": 1000,
+    "badges": [
+      "Trusted Contributor"
+    ],
+    "notificationSettings": {
+      "bookings": true,
+      "offers": true,
+      "messages": true,
+      "system": true,
+      "weather": true
+    }
+  },
+  {
+    "id": "guide_abdullah",
+    "name": "Abdullah Al-Harbi",
+    "email": "abdullah@guide.ldf.sa",
+    "passwordHash": "guide123",
+    "role": "guide",
+    "points": 300,
+    "badges": [
+      "City Expert"
+    ],
+    "notificationSettings": {
+      "bookings": true,
+      "offers": true,
+      "messages": true,
+      "system": true,
+      "weather": true
+    }
+  },
+  {
+    "id": "office_tours",
+    "name": "Saudi Horizon Travel",
+    "email": "horizon@office.ldf.sa",
+    "passwordHash": "office123",
+    "role": "office",
+    "points": 500,
+    "badges": [
+      "Trusted Contributor"
+    ],
+    "notificationSettings": {
+      "bookings": true,
+      "offers": true,
+      "messages": true,
+      "system": true,
+      "weather": true
+    }
+  },
+  {
+    "id": "user_1784901984102",
+    "name": "ali",
+    "email": "mz5040zm@gmail.com",
+    "passwordHash": "Zz123123",
+    "role": "user",
+    "points": 100,
+    "badges": [
+      "Local Explorer"
+    ]
+  },
+  {
+    "id": "user_1784999271533",
+    "name": "rrr",
+    "email": "mxffj@gmail.com",
+    "passwordHash": "Zz123123",
+    "role": "user",
+    "points": 100,
+    "badges": [
+      "Local Explorer"
+    ]
+  },
+  {
+    "id": "user_1785002169894",
+    "name": "jgfoijg",
+    "email": "gjfjbbu@gamnil.com",
+    "passwordHash": "Zz123123",
+    "role": "user",
+    "points": 100,
+    "badges": [
+      "Local Explorer"
+    ]
+  }
+]

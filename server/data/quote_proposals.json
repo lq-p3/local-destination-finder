@@ -1,0 +1,12 @@
+[
+  {
+    "id": "proposal_1",
+    "requestId": "quote_req_1",
+    "officeId": "office_saudi_tours",
+    "officeNameEn": "Saudi Horizon Tours",
+    "officeNameAr": "جولات الأفق السعودية",
+    "price": 3200,
+    "itinerarySummary": "Includes 5-star hotel in Abha/AlUla, private guide for mountain hiking, and entry tickets.",
+    "status": "pending"
+  }
+]

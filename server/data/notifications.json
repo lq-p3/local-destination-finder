@@ -1,0 +1,26 @@
+[
+  {
+    "id": "notif_1",
+    "userId": "user_sarah",
+    "type": "booking",
+    "titleEn": "Trip coming up!",
+    "titleAr": "رحلتك تقترب!",
+    "contentEn": "Your flight to Abha is in 2 days! Prepare your luggage.",
+    "contentAr": "رحلتك إلى أبها بعد يومين! جهز حقائبك للسفر.",
+    "isRead": true,
+    "link": "/profile",
+    "createdAt": "2026-07-18T23:27:35.457Z"
+  },
+  {
+    "id": "notif_2",
+    "userId": "user_sarah",
+    "type": "booking",
+    "titleEn": "Guide Confirmed",
+    "titleAr": "تأكيد المرشد",
+    "contentEn": "Guide Abdullah Al-Harbi confirmed your booking request.",
+    "contentAr": "أكد المرشد عبد الله الحربي حجزك السياحي المقترح.",
+    "isRead": true,
+    "link": "/guides",
+    "createdAt": "2026-07-18T22:27:35.457Z"
+  }
+]

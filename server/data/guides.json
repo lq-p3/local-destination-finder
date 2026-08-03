@@ -1,0 +1,112 @@
+[
+  {
+    "id": "guide_abdullah",
+    "userId": "user_guide_abdullah",
+    "nameEn": "Abdullah Al-Harbi",
+    "nameAr": "عبد الله الحربي",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80",
+    "licenseNumber": "G-1029-LIC",
+    "isVerified": true,
+    "languagesEn": [
+      "Arabic",
+      "English"
+    ],
+    "languagesAr": [
+      "العربية",
+      "الإنجليزية"
+    ],
+    "specialtiesEn": [
+      "Historical Monuments",
+      "Mountain Hiking"
+    ],
+    "specialtiesAr": [
+      "الآثار التاريخية",
+      "المسارات الجبلية"
+    ],
+    "citiesCoveredEn": [
+      "Riyadh",
+      "Abha"
+    ],
+    "citiesCoveredAr": [
+      "الرياض",
+      "أبها"
+    ],
+    "pricePerHour": 50,
+    "pricePerDay": 300,
+    "rating": 4.8,
+    "reviewsCount": 34,
+    "yearsOfExperience": 5,
+    "availability": "available",
+    "workingHoursEn": "08:00 AM - 08:00 PM",
+    "workingHoursAr": "08:00 ص - 08:00 م",
+    "servicesEn": [
+      "City Tours",
+      "Historical walk",
+      "Desert Safari guide"
+    ],
+    "servicesAr": [
+      "جولات المدينة",
+      "المسارات التراثية",
+      "رحلات السفاري البرية"
+    ],
+    "approximateLocation": {
+      "lat": 24.72,
+      "lng": 46.68
+    }
+  },
+  {
+    "id": "guide_fatimah",
+    "userId": "user_guide_fatimah",
+    "nameEn": "Fatimah Al-Sudairy",
+    "nameAr": "فاطمة السديري",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
+    "licenseNumber": "G-8812-LIC",
+    "isVerified": true,
+    "languagesEn": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "languagesAr": [
+      "العربية",
+      "الإنجليزية",
+      "الفرنسية"
+    ],
+    "specialtiesEn": [
+      "Archeology",
+      "Local Culinary Arts"
+    ],
+    "specialtiesAr": [
+      "علم الآثار والمتاحف",
+      "تذوق الأطعمة المحلية"
+    ],
+    "citiesCoveredEn": [
+      "AlUla",
+      "Jeddah"
+    ],
+    "citiesCoveredAr": [
+      "العلا",
+      "جدة"
+    ],
+    "pricePerHour": 75,
+    "pricePerDay": 450,
+    "rating": 4.9,
+    "reviewsCount": 52,
+    "yearsOfExperience": 7,
+    "availability": "available",
+    "workingHoursEn": "09:00 AM - 09:00 PM",
+    "workingHoursAr": "09:00 ص - 09:00 م",
+    "servicesEn": [
+      "Hegra private tours",
+      "Culinary experiences"
+    ],
+    "servicesAr": [
+      "جولات الحجر الخاصة",
+      "تجارب تذوق المأكولات المحلية"
+    ],
+    "approximateLocation": {
+      "lat": 26.62,
+      "lng": 37.92
+    }
+  }
+]

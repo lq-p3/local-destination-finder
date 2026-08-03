@@ -1,0 +1,237 @@
+[
+  {
+    "id": "pkg_aseer_summer",
+    "officeId": "office_tours",
+    "officeNameEn": "Saudi Horizon Travel",
+    "officeNameAr": "السهم السعودي للرحلات",
+    "nameEn": "Aseer Mountain Escape",
+    "nameAr": "ملاذ جبال عسير الصيفي",
+    "category": "family",
+    "images": [
+      "/abha_jacaranda.jpg",
+      "https://images.unsplash.com/photo-1620619711690-d4fb2163b860?auto=format&fit=crop&w=800&q=80"
+    ],
+    "citiesEn": [
+      "Abha"
+    ],
+    "citiesAr": [
+      "أبها"
+    ],
+    "durationDays": 3,
+    "startDate": "2026-08-01",
+    "endDate": "2026-08-03",
+    "itinerary": [
+      {
+        "dayNumber": 1,
+        "activitiesEn": [
+          {
+            "time": "09:00 AM",
+            "text": "Airport pickup and check-in at Aseer Heritage Resort",
+            "location": "Abha Airport"
+          },
+          {
+            "time": "04:00 PM",
+            "text": "Stroll along Art Street and enjoy the Jacaranda tree shades",
+            "location": "Art Street"
+          }
+        ],
+        "activitiesAr": [
+          {
+            "time": "09:00 ص",
+            "text": "الاستقبال في المطار والتسكين في منتجع تراث عسير",
+            "location": "مطار أبها"
+          },
+          {
+            "time": "04:00 م",
+            "text": "جولة مشي ممتعة في شارع الفن والاستمتاع بظلال الجاكاراندا",
+            "location": "شارع الفن"
+          }
+        ]
+      },
+      {
+        "dayNumber": 2,
+        "activitiesEn": [
+          {
+            "time": "08:00 AM",
+            "text": "Cable car ride to Green Mountain peaks",
+            "location": "Green Mountain"
+          },
+          {
+            "time": "02:00 PM",
+            "text": "Traditional lunch containing delicious Haneeth",
+            "location": "Local Restaurant"
+          }
+        ],
+        "activitiesAr": [
+          {
+            "time": "08:00 ص",
+            "text": "رحلة العربات المعلقة (تلفريك) لقمم الجبل الأخضر",
+            "location": "الجبل الأخضر"
+          },
+          {
+            "time": "02:00 م",
+            "text": "وجبة غداء شعبية فاخرة تحتوي على الحنيذ الأصيل",
+            "location": "مطعم محلي"
+          }
+        ]
+      },
+      {
+        "dayNumber": 3,
+        "activitiesEn": [
+          {
+            "time": "10:00 AM",
+            "text": "Check-out and transfer back to the airport"
+          }
+        ],
+        "activitiesAr": [
+          {
+            "time": "10:00 ص",
+            "text": "تسجيل الخروج والتوجه نحو المطار للعودة"
+          }
+        ]
+      }
+    ],
+    "transportTypeEn": "Private Mini-Bus",
+    "transportTypeAr": "حافلة نقل خاصة مجهزة",
+    "pricePerPerson": 1200,
+    "totalSeats": 25,
+    "remainingSeats": 12,
+    "inclusionsEn": [
+      "3-star accommodation",
+      "Daily traditional breakfast & lunch",
+      "Entry tickets & cable car fees",
+      "Certified tour guide"
+    ],
+    "inclusionsAr": [
+      "الإقامة في فندق ٣ نجوم",
+      "وجبات الإفطار والغداء الشعبية يومياً",
+      "تذاكر الدخول ورسوم التلفريك",
+      "مرشد سياحي مرخص وموثق"
+    ],
+    "exclusionsEn": [
+      "Airline flight tickets",
+      "Personal shopping expenses",
+      "Evening dinner meals"
+    ],
+    "exclusionsAr": [
+      "تذاكر الطيران للذهاب والعودة",
+      "المصاريف الشخصية والهدايا",
+      "وجبات العشاء المسائية"
+    ],
+    "termsEn": "Please bring warm jackets as weather can be chilly in mountain nights.",
+    "termsAr": "يرجى إحضار ملابس دافئة نظراً لبرودة الأجواء في الجبال ليلاً.",
+    "cancellationPolicyEn": "Free cancellation up to 48 hours before the trip starts.",
+    "cancellationPolicyAr": "إلغاء مجاني كامل حتى ٤٨ ساعة قبل موعد بدء الرحلة.",
+    "rating": 4.8,
+    "reviewsCount": 42,
+    "isAvailable": true
+  },
+  {
+    "id": "pkg_alula_adventure",
+    "officeId": "office_tours",
+    "officeNameEn": "Saudi Horizon Travel",
+    "officeNameAr": "السهم السعودي للرحلات",
+    "nameEn": "AlUla Historic Discovery",
+    "nameAr": "استكشاف معالم العلا التاريخية",
+    "category": "adventure",
+    "images": [
+      "/alula_hegra.jpg",
+      "https://images.unsplash.com/photo-1625414811202-e223ed33405c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "citiesEn": [
+      "AlUla"
+    ],
+    "citiesAr": [
+      "العلا"
+    ],
+    "durationDays": 2,
+    "startDate": "2026-09-10",
+    "endDate": "2026-09-12",
+    "itinerary": [
+      {
+        "dayNumber": 1,
+        "activitiesEn": [
+          {
+            "time": "10:00 AM",
+            "text": "Arrive at AlUla Desert Camp and check-in to glamping pods",
+            "location": "Desert Glamping"
+          },
+          {
+            "time": "03:00 PM",
+            "text": "Sunset hiking tour at Elephant Rock",
+            "location": "Elephant Rock"
+          }
+        ],
+        "activitiesAr": [
+          {
+            "time": "10:00 ص",
+            "text": "الوصول لمخيم العلا الصحراوي والتسكين في الغرف الزجاجية",
+            "location": "التخييم الفاخر"
+          },
+          {
+            "time": "03:00 م",
+            "text": "جولة لمشاهدة الغروب حول صخرة الفيل الشهيرة",
+            "location": "جبل الفيل"
+          }
+        ]
+      },
+      {
+        "dayNumber": 2,
+        "activitiesEn": [
+          {
+            "time": "09:00 AM",
+            "text": "Guided exploration of UNESCO site Hegra tombs",
+            "location": "Hegra Tombs"
+          },
+          {
+            "time": "04:00 PM",
+            "text": "Departure flight back"
+          }
+        ],
+        "activitiesAr": [
+          {
+            "time": "09:00 ص",
+            "text": "جولة برفقة مرشد لاستكشاف مقابر الحجر الأثرية المسجلة باليونسكو",
+            "location": "مقابر الحجر"
+          },
+          {
+            "time": "04:00 م",
+            "text": "رحلة المغادرة والعودة للديار"
+          }
+        ]
+      }
+    ],
+    "transportTypeEn": "4x4 SUV Vehicles",
+    "transportTypeAr": "سيارات دفع رباعي فاخرة",
+    "pricePerPerson": 2100,
+    "totalSeats": 15,
+    "remainingSeats": 4,
+    "inclusionsEn": [
+      "Glamping camp resort stay",
+      "All meals included",
+      "Private 4x4 transport",
+      "Hegra entry slot booked"
+    ],
+    "inclusionsAr": [
+      "الإقامة في مخيم صحراوي فاخر",
+      "شامل جميع الوجبات اليومية",
+      "تنقلات بسيارات دفع رباعي خاصة",
+      "حجز تذاكر وتصاريح دخول الحجر بالكامل"
+    ],
+    "exclusionsEn": [
+      "Airline flights",
+      "Snacks"
+    ],
+    "exclusionsAr": [
+      "رحلات الطيران للوصول للعلا",
+      "الوجبات الخفيفة والمسليات"
+    ],
+    "termsEn": "Sunscreen, sunglasses, and comfortable walking shoes are highly recommended.",
+    "termsAr": "نوصي بشدة بإحضار واقي شمس، نظارة شمسية، وحذاء مريح للمشي الطويل.",
+    "cancellationPolicyEn": "Non-refundable if cancelled less than 5 days prior.",
+    "cancellationPolicyAr": "غير مستردة القيمة في حال الإلغاء بأقل من ٥ أيام من الرحلة.",
+    "rating": 4.9,
+    "reviewsCount": 78,
+    "isAvailable": true
+  }
+]

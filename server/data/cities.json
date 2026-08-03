@@ -1,0 +1,116 @@
+[
+  {
+    "id": "riyadh",
+    "regionId": "central_region",
+    "nameEn": "Riyadh",
+    "nameAr": "الرياض",
+    "coverImage": "/riyadh_night.png",
+    "descriptionEn": "The dynamic capital city featuring soaring towers and world-class seasons.",
+    "descriptionAr": "العاصمة الديناميكية التي تتميز بأبراجها الشاهقة ومواسمها الترفيهية العالمية.",
+    "weather": {
+      "temp": 24,
+      "statusEn": "Sunny",
+      "statusAr": "مشمس",
+      "wind": "12 km/h"
+    },
+    "coordinates": {
+      "lat": 24.7136,
+      "lng": 46.6753
+    }
+  },
+  {
+    "id": "abha",
+    "regionId": "aseer_region",
+    "nameEn": "Abha",
+    "nameAr": "أبها",
+    "coverImage": "/abha_jacaranda.jpg",
+    "descriptionEn": "Perched high in the mountains, famous for fresh breezes and purple jacarandas.",
+    "descriptionAr": "تقع في أعالي الجبال، وتشتهر بنسماتها الباردة والجاكاراندا البنفسجية.",
+    "weather": {
+      "temp": 19,
+      "statusEn": "Foggy",
+      "statusAr": "ضبابي",
+      "wind": "8 km/h"
+    },
+    "coordinates": {
+      "lat": 18.2164,
+      "lng": 42.5053
+    }
+  },
+  {
+    "id": "jeddah",
+    "regionId": "western_region",
+    "nameEn": "Jeddah",
+    "nameAr": "جدة",
+    "coverImage": "/jeddah_corniche.jpg",
+    "descriptionEn": "The Bride of the Red Sea, offering deep diving spots and a heritage Al-Balad quarter.",
+    "descriptionAr": "عروس البحر الأحمر، وتقدم مواقع غوص عميقة وحي البلد التراثي الشهير.",
+    "weather": {
+      "temp": 31,
+      "statusEn": "Humid & Clear",
+      "statusAr": "رطب وصافٍ",
+      "wind": "15 km/h"
+    },
+    "coordinates": {
+      "lat": 21.5433,
+      "lng": 39.1728
+    }
+  },
+  {
+    "id": "alula",
+    "regionId": "western_region",
+    "nameEn": "AlUla",
+    "nameAr": "العلا",
+    "coverImage": "/alula_hegra.jpg",
+    "descriptionEn": "A magical geological wonder displaying rock carvings and 2,000-year-old Nabataean tombs.",
+    "descriptionAr": "أعجوبة جيولوجية ساحرة تعرض نقوشًا صخرية ومقابر نبطية تعود لألفي عام.",
+    "weather": {
+      "temp": 26,
+      "statusEn": "Clear Night",
+      "statusAr": "صافٍ",
+      "wind": "6 km/h"
+    },
+    "coordinates": {
+      "lat": 26.62,
+      "lng": 37.93
+    }
+  },
+  {
+    "id": "taif",
+    "regionId": "western_region",
+    "nameEn": "Taif",
+    "nameAr": "الطائف",
+    "coverImage": "https://images.unsplash.com/photo-1632731057400-f925c4efc587?auto=format&fit=crop&w=2000&q=80",
+    "descriptionEn": "The City of Roses, perched high in the mountains. Famous for its pleasant weather and rose farms.",
+    "descriptionAr": "مدينة الورود، تقع في أعالي الجبال. تشتهر بطقسها اللطيف ومزارع الورود العطرة.",
+    "weather": {
+      "temp": 22,
+      "statusEn": "Cloudy",
+      "statusAr": "غائم جزئياً",
+      "wind": "10 km/h"
+    },
+    "coordinates": {
+      "lat": 21.2854,
+      "lng": 40.4244
+    }
+  },
+  {
+    "id": "neom",
+    "regionId": "western_region",
+    "nameEn": "NEOM",
+    "nameAr": "نيوم",
+    "coverImage": "https://images.unsplash.com/photo-1682687981974-c5ef2111640c?auto=format&fit=crop&w=2000&q=80",
+    "descriptionEn": "A vision of what a new future might look like, featuring breathtaking natural landscapes.",
+    "descriptionAr": "رؤية لما قد يبدو عليه المستقبل الجديد، وتتميز بمناظر طبيعية خلابة.",
+    "weather": {
+      "temp": 28,
+      "statusEn": "Sunny",
+      "statusAr": "مشمس",
+      "wind": "14 km/h"
+    },
+    "coordinates": {
+      "lat": 28.28,
+      "lng": 34.62
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "chat_sarah_abdullah",
+    "participants": [
+      "user_sarah",
+      "guide_abdullah"
+    ],
+    "messages": [
+      {
+        "senderId": "guide_abdullah",
+        "senderName": "Abdullah Al-Harbi",
+        "text": "Hello Sarah! Welcome to LDF. I will be your mountain guide for your upcoming tour in Abha.",
+        "createdAt": "2026-07-18T21:27:35.461Z"
+      },
+      {
+        "senderId": "user_sarah",
+        "senderName": "Sarah Miller",
+        "text": "Hi Abdullah! Glad to meet you. Can you recommend what to wear for the weather?",
+        "createdAt": "2026-07-18T22:27:35.461Z"
+      },
+      {
+        "senderId": "guide_abdullah",
+        "senderName": "Abdullah Al-Harbi",
+        "text": "I suggest warm clothes as it gets breezy in Abha mountains at night. Here is the meeting point.",
+        "location": {
+          "lat": 18.2164,
+          "lng": 42.5053
+        },
+        "createdAt": "2026-07-18T23:27:35.461Z"
+      }
+    ]
+  }
+]

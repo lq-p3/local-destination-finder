@@ -1,0 +1,62 @@
+[
+  {
+    "id": "central_region",
+    "nameEn": "Central Region",
+    "nameAr": "المنطقة الوسطى",
+    "coverImage": "/riyadh_night.png",
+    "descriptionEn": "The beating heart of Saudi Arabia, blending modern landmarks, historical heritage sites, and massive entertainment zones.",
+    "descriptionAr": "القلب النابض للمملكة العربية السعودية، حيث تمتزج المعالم الحديثة والمواقع التراثية التاريخية مع مناطق الترفيه الكبرى.",
+    "bestTimeToVisitEn": "October to March",
+    "bestTimeToVisitAr": "من أكتوبر إلى مارس",
+    "famousFoodsEn": [
+      "Kabsa",
+      "Jareesh",
+      "Qursan"
+    ],
+    "famousFoodsAr": [
+      "الكبسة",
+      "الجريش",
+      "القرصان"
+    ]
+  },
+  {
+    "id": "aseer_region",
+    "nameEn": "Aseer Region",
+    "nameAr": "منطقة عسير",
+    "coverImage": "/abha_jacaranda.jpg",
+    "descriptionEn": "A mountainous green paradise famous for high peaks, fog-draped scenery, beautiful jacaranda trees, and ancient stone heritage.",
+    "descriptionAr": "جنة خضراء جبلية تشتهر بقممها العالية ومناظرها المكسوة بالضباب وأشجار الجاكاراندا الجميلة والتراث الحجري القديم.",
+    "bestTimeToVisitEn": "June to September (Summer escape)",
+    "bestTimeToVisitAr": "من يونيو إلى سبتمبر (ملاذ صيفي رائع)",
+    "famousFoodsEn": [
+      "Haneeth",
+      "Aseedah",
+      "Mashghoutha"
+    ],
+    "famousFoodsAr": [
+      "الحنيذ",
+      "العصيدة",
+      "المشغوثة"
+    ]
+  },
+  {
+    "id": "western_region",
+    "nameEn": "Western Region",
+    "nameAr": "المنطقة الغربية",
+    "coverImage": "/alula_hegra.jpg",
+    "descriptionEn": "Stretching along the Red Sea coast, from the historical markets of Jeddah to the ancient archaeological tombs of AlUla.",
+    "descriptionAr": "تمتد على طول ساحل البحر الأحمر، من أسواق جدة التاريخية إلى المقابر الأثرية القديمة في العلا.",
+    "bestTimeToVisitEn": "November to April",
+    "bestTimeToVisitAr": "من نوفمبر إلى أبريل",
+    "famousFoodsEn": [
+      "Sayadiyah",
+      "Manto",
+      "Yaghmoush"
+    ],
+    "famousFoodsAr": [
+      "الصيادية",
+      "المنتو",
+      "اليغموش"
+    ]
+  }
+]
