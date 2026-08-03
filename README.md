@@ -4,7 +4,7 @@ LDF is a modern tourism platform built for Saudi Arabia's 13 administrative regi
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend**: React 19 + TypeScript + Vite + Tailwind CSS + Leaflet Maps + `@microsoft/signalr`
 - **Backend**: ASP.NET Core 8 Web API + Identity + JWT Authentication + SignalR Hubs + EF Core
@@ -14,7 +14,7 @@ LDF is a modern tourism platform built for Saudi Arabia's 13 administrative regi
 
 ---
 
-## 🚀 Running Locally
+## Running Locally
 
 ### Option 1: Standard Development Mode
 
@@ -46,7 +46,7 @@ docker compose up --build
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 ├── backend/
@@ -64,7 +64,7 @@ docker compose up --build
 
 ---
 
-## 📄 License & Attribution
+##  License & Attribution
 
 - Maps & Geospatial Data: © OpenStreetMap contributors
 - AI Assistance: Google Gemini API Integration
