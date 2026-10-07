@@ -6,7 +6,7 @@ import {
 import { useLanguage } from '../context/LanguageContext';
 import { getConversations, getConversationById, sendMessage } from '../api/conversationsApi';
 import { getSignalRConnection, startSignalRConnection, joinSignalRSession, leaveSignalRSession } from '../realtime/signalRClient';
-import { ChatSession, ChatMessage } from '../../server/types';
+import { ChatSession, ChatMessage } from '../types/models';
 
 export default function Chats() {
   const { t, language, dir } = useLanguage();

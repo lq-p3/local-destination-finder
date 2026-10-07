@@ -8,7 +8,7 @@ import { motion, AnimatePresence } from 'motion/react';
 import { useLanguage } from '../context/LanguageContext';
 import { api } from '../api';
 import { createDestination } from '../api/destinationsApi';
-import { Region, City, Destination } from '../../server/types';
+import { Region, City, Destination } from '../types/models';
 import L from 'leaflet';
 
 export default function AddPlace() {
