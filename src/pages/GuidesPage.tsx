@@ -9,7 +9,7 @@ import { useLanguage } from '../context/LanguageContext';
 import { api } from '../api';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
-import { TravelGuide } from '../../server/types';
+import { TravelGuide } from '../types/models';
 
 export default function GuidesPage() {
   const { t, language, dir } = useLanguage();

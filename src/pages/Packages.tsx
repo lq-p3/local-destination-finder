@@ -8,7 +8,7 @@ import { motion, AnimatePresence } from 'motion/react';
 import { useLanguage } from '../context/LanguageContext';
 import { api } from '../api';
 import { getPackages } from '../api/packagesApi';
-import { Package, PackageCategory, FavoriteList } from '../../server/types';
+import { Package, PackageCategory, FavoriteList } from '../types/models';
 
 export default function Packages() {
   const { t, language, dir } = useLanguage();

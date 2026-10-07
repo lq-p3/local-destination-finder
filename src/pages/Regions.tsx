@@ -5,7 +5,7 @@ import { motion } from 'motion/react';
 import { useLanguage } from '../context/LanguageContext';
 import { getRegions } from '../api/regionsApi';
 import { mapRegionApiToRegion } from '../mappers/regionMapper';
-import { Region } from '../../server/types';
+import { Region } from '../types/models';
 
 export default function Regions() {
   const { t, language, dir } = useLanguage();

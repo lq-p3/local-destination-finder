@@ -5,7 +5,7 @@ import {
 } from 'lucide-react';
 import { useLanguage } from '../context/LanguageContext';
 import { api } from '../api';
-import { Package, Booking } from '../../server/types';
+import { Package, Booking } from '../types/models';
 
 export default function OfficeDashboard() {
   const { t, language, dir } = useLanguage();
