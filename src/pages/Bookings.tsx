@@ -6,7 +6,7 @@ import {
 import { useLanguage } from '../context/LanguageContext';
 import { api } from '../api';
 import { getBookings, cancelBooking } from '../api/bookingsApi';
-import { Booking } from '../../server/types';
+import { Booking } from '../types/models';
 
 export default function Bookings() {
   const { t, language, dir } = useLanguage();

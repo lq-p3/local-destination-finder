@@ -8,7 +8,7 @@ import { motion, AnimatePresence } from 'motion/react';
 import { useLanguage } from '../context/LanguageContext';
 import { getRegionById } from '../api/regionsApi';
 import { mapRegionApiToRegion, mapCityApiToCity } from '../mappers/regionMapper';
-import { Region, City, Destination, Package } from '../../server/types';
+import { Region, City, Destination, Package } from '../types/models';
 
 export default function RegionDetail() {
   const { id } = useParams();

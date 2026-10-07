@@ -1,5 +1,5 @@
 import { DestinationApiModel } from '../api/destinationTypes';
-import { Destination } from '../../server/types';
+import { Destination } from '../types/models';
 
 export function mapDestinationApiToDestination(apiModel: DestinationApiModel): Destination {
   return {

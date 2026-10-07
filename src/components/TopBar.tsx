@@ -8,7 +8,7 @@ import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { api } from '../api';
 import { getNotifications, markNotificationRead, markAllNotificationsRead, deleteNotification } from '../api/notificationsApi';
 import { getSignalRConnection, startSignalRConnection } from '../realtime/signalRClient';
-import { Notification, User } from '../../server/types';
+import { Notification, User } from '../types/models';
 
 export default function TopBar() {
   const { t, dir, language, setLanguage } = useLanguage();

@@ -1,5 +1,5 @@
 import { RegionApiModel, CityApiModel } from '../api/apiTypes';
-import { Region, City } from '../../server/types';
+import { Region, City } from '../types/models';
 
 export function mapRegionApiToRegion(apiModel: RegionApiModel): Region {
   return {

@@ -6,7 +6,7 @@ import {
 } from 'lucide-react';
 import { useLanguage } from '../context/LanguageContext';
 import { api } from '../api';
-import { Accommodation, RoomOption } from '../../server/types';
+import { Accommodation, RoomOption } from '../types/models';
 
 export default function AccommodationDetail() {
   const { id } = useParams();

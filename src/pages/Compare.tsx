@@ -8,7 +8,7 @@ import { motion, AnimatePresence } from 'motion/react';
 import { useLanguage } from '../context/LanguageContext';
 import { api } from '../api';
 import { comparePackages } from '../api/packagesApi';
-import { Package } from '../../server/types';
+import { Package } from '../types/models';
 
 export default function Compare() {
   const { t, language, dir } = useLanguage();
