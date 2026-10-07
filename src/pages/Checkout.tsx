@@ -8,7 +8,7 @@ import { useLanguage } from '../context/LanguageContext';
 import { api } from '../api';
 import { checkoutBooking } from '../api/bookingsApi';
 import { createPaymentIntent, confirmDevelopmentPayment } from '../api/paymentsApi';
-import { User } from '../../server/types';
+import { User } from '../types/models';
 
 export default function Checkout() {
   const { t, language, dir } = useLanguage();

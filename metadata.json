@@ -1,6 +1,0 @@
-{
-  "name": "Local Destination Finder",
-  "description": "A modern, premium, responsive tourism web application featuring AI travel planning.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

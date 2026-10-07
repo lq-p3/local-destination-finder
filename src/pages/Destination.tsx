@@ -11,7 +11,7 @@ import { useLanguage } from '../context/LanguageContext';
 import { api } from '../api';
 import { getDestinationById, getDestinationReviews, createDestinationReview } from '../api/destinationsApi';
 import { mapDestinationApiToDestination } from '../mappers/destinationMapper';
-import { Review } from '../../server/types';
+import { Review } from '../types/models';
 import NearbyPlacesSection from '../components/NearbyPlacesSection';
 import PlaceDetailsModal from '../components/PlaceDetailsModal';
 

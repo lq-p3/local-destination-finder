@@ -1,7 +1,7 @@
 import { 
   User, Region, City, Destination, Package, 
   FavoriteList, Comparison, Notification, Review, DestinationStatus 
-} from '../server/types';
+} from './types/models';
 import { apiRequest } from './api/apiClient';
 
 // Forward all API calls to ASP.NET Core backend with JWT Bearer token

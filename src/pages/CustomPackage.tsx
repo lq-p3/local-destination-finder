@@ -7,7 +7,7 @@ import {
 import { motion, AnimatePresence } from 'motion/react';
 import { useLanguage } from '../context/LanguageContext';
 import { api } from '../api';
-import { City, Destination } from '../../server/types';
+import { City, Destination } from '../types/models';
 
 export default function CustomPackage() {
   const { t, language, dir } = useLanguage();

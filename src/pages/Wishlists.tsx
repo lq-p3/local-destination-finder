@@ -8,7 +8,7 @@ import { motion, AnimatePresence } from 'motion/react';
 import { useLanguage } from '../context/LanguageContext';
 import { api } from '../api';
 import { createFavoriteFolder, deleteFavoriteFolder, removeFavorite } from '../api/favoritesApi';
-import { FavoriteList, Destination, Package } from '../../server/types';
+import { FavoriteList, Destination, Package } from '../types/models';
 
 export default function Wishlists() {
   const { t, language, dir } = useLanguage();
