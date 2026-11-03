@@ -29,20 +29,20 @@
 ## Features
 
 **For travelers**
-- 🗺️ **Explore by region and city** — all 13 regions of Saudi Arabia with destinations, hotels, restaurants, cafés, events and activities.
-- 📍 **Interactive maps** — Leaflet maps with nearby places powered by OpenStreetMap (Nominatim / Overpass).
-- 🔎 **Unified search** with Arabic text normalization.
-- 🤖 **AI trip planner** — itinerary suggestions powered by Google Gemini.
-- ⭐ **Personalized recommendations**, reviews and wishlists organized in folders.
-- 📦 **Packages & comparison** — compare packages side by side or request a custom package.
-- 💬 **Quotes and live chat** — request quotes from travel offices and negotiate over real-time chat (SignalR).
-- 💳 **Bookings, checkout and payments** with idempotent payment handling.
-- 🔔 **Notifications center** for bookings, offers and messages.
+- **Explore by region and city** — all 13 regions of Saudi Arabia with destinations, hotels, restaurants, cafés, events and activities.
+- **Interactive maps** — Leaflet maps with nearby places powered by OpenStreetMap (Nominatim / Overpass).
+- **Unified search** with Arabic text normalization.
+- **AI trip planner** — itinerary suggestions powered by Google Gemini.
+- **Personalized recommendations**, reviews and wishlists organized in folders.
+- **Packages & comparison** — compare packages side by side or request a custom package.
+- **Quotes and live chat** — request quotes from travel offices and negotiate over real-time chat (SignalR).
+- **Bookings, checkout and payments** with idempotent payment handling.
+- **Notifications center** for bookings, offers and messages.
 
 **For travel offices and admins**
-- 🏢 **Office dashboard** to manage packages, quote proposals and bookings.
-- 🛡️ **Admin CMS and moderation** for places, reviews and content.
-- 📜 **Audit logging** of sensitive operations.
+- **Office dashboard** to manage packages, quote proposals and bookings.
+- **Admin CMS and moderation** for places, reviews and content.
+- **Audit logging** of sensitive operations.
 
 **Engineering highlights**
 - Clean Architecture backend (`Core` → `Application` → `Infrastructure` → `Api`).
